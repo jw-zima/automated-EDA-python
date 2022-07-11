@@ -1,0 +1,14 @@
+name: env-EDA
+
+dependencies:
+  - python=3.9.12
+  - ipython=8.3.0
+  - jupyterlab=3.3.2
+  - pandas=1.4.2
+  - pip=21.2.4
+  - pip:
+    - dtale
+    - pandas-profiling
+    - sweetviz
+    - autoviz
+    - dataprep
