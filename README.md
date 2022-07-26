@@ -15,7 +15,7 @@ Data used in this exercise: **mtcars**.
         <img src="https://img.shields.io/badge/%20-Jupyter%20Notebook%20-blue" /></a>
 </p>
 
-#### Notes
+## Notes
 
 In order to preview reports in the *reports* folder use *GitHub & BitBucket HTML Preview*, i.e., just prepend this fragment to the URL of any HTML file: **[https://htmlpreview.github.io/?](https://htmlpreview.github.io/?)** e.g.:
 
